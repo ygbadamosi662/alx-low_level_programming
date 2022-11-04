@@ -1,10 +1,14 @@
 #include "main.h"
+
 /**
- * _abs-does nothing
- * @n:int
- * Return:n
+ * _abs - prints the absolute value of an integer
+ * @n: is the integer
+ * Return: the absolute value of int
  */
 int _abs(int n)
 {
-	return (n);
+	if (n >= 0)
+		return (n);
+	else
+		return (-n);
 }
