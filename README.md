@@ -4,3 +4,4 @@ Even more pointers, arrays and strings
 0x08. C - Recursion
 Write a program that prints its name, followed by a new line.
 0x09. C - Static libraries
+0x0B. C - malloc, free
